@@ -1,1 +1,1 @@
-# java-fsd1
+# java-fsd practice excercises
