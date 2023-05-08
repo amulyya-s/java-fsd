@@ -1,4 +1,4 @@
-# java-fsd-practice
+# java-fsd
 JAVA FSD PRACTICE QUESTIONS
 
 PHASE-1
